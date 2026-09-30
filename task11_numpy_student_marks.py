@@ -1,7 +1,8 @@
 import numpy as np
 
 # VEDA Technology - Task 11: NumPy Student Marks
-# Name: Ayush Rajput
+# Name: pranjal jain
+
 
 marks = np.array([78, 85, 92, 67, 88, 74, 95, 81, 69, 90])
 
