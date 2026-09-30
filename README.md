@@ -1,6 +1,6 @@
 # VEDA Technology - Task 11: NumPy Student Marks
 
-**Name:** Ayush Rajput  
+**Name:** pranjal jain
 **Track:** AI & ML  
 **Level:** 1 - Day 11
 
